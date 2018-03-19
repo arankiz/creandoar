@@ -1,0 +1,11 @@
+#arjsDebugUIContainer {
+	    background-position-x: 0;
+    position: unset;
+	bottom: 0px;
+	/* position: fixed; */
+    /* bottom: 0; */
+    /* width: 0; */
+    /* text-align: center; */
+    /* z-index: 0; */
+    /* color: grey; */
+}
